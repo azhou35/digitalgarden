@@ -1,0 +1,3 @@
+[🟧 What makes a good newsletter? - One Thing](https://onethingnewsletter.substack.com/p/what-makes-a-good-newsletter)
+From Katya: 
+"I like Katy's thought about newsletters as socializing! Particularly as social media continues to disintegrate, we don't have as much of that ambient awareness of other people's thoughts as we might have had otherwise. I definitely rely on newsletters to bring me updates about what some individual is thinking about."

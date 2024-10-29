@@ -1,0 +1,3 @@
+*Why do I write?*
+Because I feel emotions that are too overwhelming to simply speak out loud. Because I get stuck in loops of overthinking, hamster-wheel-cognition trapping me into helplessness lest I release its momentum elsewhere. Because there are so many [[nameless feeling]]s in the world that I want to approximate. Because there's a synergy when two unrelated words come together and form a metaphor that's deeper than the two words apart. 
+I write to claw myself out of funks when remote work makes me feel disconnected and untethered from the physical word. I write to reflect after a rapid series of *living life* makes me numb to actually *experiencing* it.
