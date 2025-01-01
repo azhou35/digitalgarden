@@ -4,4 +4,3 @@ i grew up in a family with their house in new jersey and their heart in the city
 
 living in nyc pairs nicely with a high [[permeability to wonder]].
 
-people have written a million love letters to new york, via song, poetry, substacks, books, movie scenes. allow me to pile on more sap. 

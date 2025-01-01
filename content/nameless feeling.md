@@ -9,6 +9,6 @@ i know why i write. it's because i am helplessly inept at articulating how i fee
 fall last year i picked up *the unbearable lightness of being* for attraction to the title alone. what do you mean, a lightness so magnificent it's unbearable? it's an innate spirit that you cannot encapsulate (a pattern language)
 these are the moments that move me to write. so moved by the amount of life i've lived it spills out uncontrollably. i write better from positive / bittersweet feelings as opposed to negativity. 
 my inspiration to write comes from a [[permeability to wonder]]. 
-there's a partifular feeling of east village on a summer saturday morning. 
 
-we are chasing this [[nameless feeling]]. technology attempts to reverse-engineer this serendpity. 
+
+we are chasing this [[nameless feeling]]. technology attempts to reverse-engineer this serendipity. 
