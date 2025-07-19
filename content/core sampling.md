@@ -1,0 +1,1 @@
+Ping 20 people and ask them to tell you what you’re great at. (20 is kind of a random number, but you’re a scientist and you need to get that sample size up!).

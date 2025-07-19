@@ -1,0 +1,2 @@
+(n) a complex situation that’s perceived in distinct ways by different stakeholders, making it difficult to translate into a clear problem statement.
+[Software Development as a Wicked Problem - Increment](https://increment.com/planning/software-development-as-a-wicked-problem/)

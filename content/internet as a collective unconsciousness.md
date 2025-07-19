@@ -1,0 +1,4 @@
+[The Internet is our Collective Unconscious - YouTube](https://www.youtube.com/watch?v=eJph4GcYt1w) 
+
+going down an internet rabbit hole also is going down a hall of mirrors
+"giving a strong feeling of connection, the internet can take away our feeling of individuality. It seems like nearly every thought, every idea that we thought made us special, already exists somewhere in this cosmos. I believe many people on the internet still try to subconsciously hold on to this feeling by developing "inhuman" opinions and ideas. If everything what they thought made them special already exists on the internet somewhere, they might stray further and further from human nature in order to find these things that make them stand out from the masses. Sadly, these often end up being unemphatic and narcissistic"

@@ -1,6 +1,8 @@
 ---
-title: 🐰 Annie Zhou's Digital Garden
+title: 周 annie's garden
+publish: true
 ---
+
 ### 🌱 Genesis
  Planted 10.27.24 in NYC. Last watered 1.1.25. 
 ### 🤠 Hey!

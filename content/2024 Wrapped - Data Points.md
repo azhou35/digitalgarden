@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 1. # of Unread Emails: 11949
 2. # of Unread Texts: 758
 3. # of Miles Ran: 511

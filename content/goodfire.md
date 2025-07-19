@@ -1,0 +1,1 @@
+“technical AI alignment” — in other words, trying to make sure that AI systems act according to human values and intentions. There are so many different approaches to making progress on AI alignment, but truly understanding how AI models work inside the black box (the “neuroscience” for AI), and coming up with ways of designing models more precisely felt so fundamental

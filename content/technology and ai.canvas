@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"494b89709fd1203e","type":"file","file":"Weights and Biases.md","x":0,"y":74,"width":400,"height":400},
+		{"id":"7b865ed3b48ee9a4","type":"text","text":"AI Startups ","x":0,"y":-40,"width":250,"height":60},
+		{"id":"a3dc83be35f88a1f","type":"file","file":"ai translation and human connection.md","x":743,"y":-445,"width":400,"height":400},
+		{"id":"bb87b1f2acdfbf05","type":"file","file":"nerd/ai x justice syllabus.md","x":920,"y":160,"width":400,"height":400},
+		{"id":"27ce9f9813fbb8e3","type":"file","file":"Together AI thesis.md","x":-480,"y":74,"width":400,"height":400},
+		{"id":"9aa7ba0e4d9cd0b7","type":"file","file":"hume ai analysis.md","x":0,"y":600,"width":400,"height":400},
+		{"id":"a46ef8c092e9eea0","type":"file","file":"what is the point of using ai agents.md","x":250,"y":-520,"width":400,"height":400},
+		{"id":"720046d23a80b877","type":"file","file":"olga russakovsky - shaping next gen of ai leaders.md","x":800,"y":720,"width":400,"height":400}
+	],
+	"edges":[]
+}

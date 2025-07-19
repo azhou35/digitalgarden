@@ -1,0 +1,1 @@
+The term “non-place” was popularized by anthropologist Marc Augé as a “space of contemporary consumption,” marked by the “contractual relations” through which the user or consumer engages with it, or rather with the power mechanisms behind it. In this sense, Augé elaborates, 

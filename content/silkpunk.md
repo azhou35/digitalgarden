@@ -1,0 +1,1 @@
+term coined by Ken Liu to encapsulate the way it blends the material culture and philosophical roots of East Asian antiquity in an alternative vision of modernity

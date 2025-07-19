@@ -1,0 +1,6 @@
+- college coming - of - age
+	- how we brine in our own ego, we saw god in the rear mirror and laughed
+	- image of us in ith 
+- copenhagen
+- paris 
+- 

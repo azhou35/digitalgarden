@@ -1,0 +1,1 @@
+that's teling me you're not working hard enough, you're not skinny enough, you're not pretty enough 

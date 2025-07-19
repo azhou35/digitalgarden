@@ -1,0 +1,6 @@
+- this is a brand that can extend beyond just writing
+- also photo walks
+- also studies on urbanism 
+	- romantic walks
+- also pam pam city - can hold a walk
+	- walk and talks

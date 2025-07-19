@@ -1,0 +1,23 @@
+- you're a silver hammer looking for a nail 
+	- hammer is pretty good
+- anyone should be trying to include intelligent against the content 
+- ticketing - filled w language - obvious but non trivial 
+- hey gen - creative tools 
+- instead of classifying tickets what is a full reimainging of the tickets
+- take cues from research labs
+- "CRM is just a wrapper around a relational database"
+	- very durable as a workflow 
+- we dont want to be building faster horse 
+- quite diff from saas products - reimainging new workflows 
+- Siera 
+- anthropic - pms vs research teams -  new question - i have a tradeoff between quality/latency/cost 
+	- how do you embed user experiences to delay the latency
+	- can do model optimization, can add intentional friction
+- sarah guo -  their team comes from software
+	- there are domains in which scaling models will have similar benefits in terms of usefulness
+	- require different kinds of domains 
+		- robotics / biology / material science
+- evaluate models against human performance
+	- map it to human workflows
+	- how can u tell a model is good at a particular task
+[[The New Datacenter]]

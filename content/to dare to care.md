@@ -1,0 +1,22 @@
+*a piece on earnestness*
+- nabeel: the will to care
+	- [13. Nabeel S. Qureshi - The Will to Care - Jackson Dahl](https://jacksondahl.com/dialectic/nabeel-qureshi)
+	- how to foster care:
+		- original seeing and intimacy
+		- physical engagement
+		- follow genuine excitemet
+	- [Instagram](https://www.instagram.com/reel/DMRuChLhuJF/) ocean vuong
+		- seen how students are more and more self-conscious of trying - surveillance culture around social media
+			- they would see "i want to be a good writer / poet" but it's a bit cringe 
+				- i dont't want to be perceived as trying and attempting to achieve my dreams
+				- fear of judgement
+				- perform cynicism - it can be misread as intelligence
+				- you are disaffected, you are too cool, you've seen it all
+				- you are so deeply hungry for sincere, earnest work
+				- do it privatey bc they do it privately they're actualy trying to do something
+				- among peers sincerity is whwat we deeply hunger for 
+				- teachers have a role to set the stone and steward sincerity, judgement-free zone to allow folks to be sincere and earnest and it wont be cringe
+				- and liberate them to their true selves
+	- once i accept that i am cringe, i was free to become my true self 
+	- personal anecdote - storing away my poems and writing in google docs that i revealed to key friends, and humiliated when our friendship fell through 
+	- 

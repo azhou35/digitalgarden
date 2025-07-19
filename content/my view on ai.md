@@ -1,0 +1,1 @@
+techno-optimistic - as long as we align our internal goals with that of an ai's we can steer ourselves in the right directin. 

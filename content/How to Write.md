@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 by Sherry Ning
 [How to Write - by Sherry Ning - Pluripotent (substack.com)](https://substack.com/home/post/p-146328106)
 

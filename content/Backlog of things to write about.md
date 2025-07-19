@@ -1,15 +1,17 @@
-For Substack / myself
-1) Coffee shop culture / coworking 
-2) Nameless feelings / awe / the sublme
-3) Photography (as a practice & philosophy)
-	1) 4 Layers to a good photo 
-	2) How do you know when to hit the shutter button (+ connect it to ambition)
-4) Running
-	1) How it helps escape the hamster wheel theory of mind 
-	2) How it helps simulate thinking & writing 
-	3) How it regulates my anxiety and overthinking
-	4) Discipline
-5) Solitude / loneliness
-6) The art of walking
-7) Coziness and cooking with friends
-8) Authenticity -- why do i Care?
+---
+publish: true
+---
+Last edited 3.1.25
+
+**Techno-pologist Thoughts**
+*Observations on the tools we create and how they shape us and vice versa. Focusing on artifacts found on the internet and IRL.*
+- [ ] [[Voice AI Documentation]]
+- [ ] [[technological intimacy in conversational AI | Intimacy in Conversation]]
+- [ ] 
+
+**Navel-gazy Thoughts**
+- [ ] [[Making food for others|coziness and cooking w friends]]
+- [ ] [[to live authentically and ethically | why i care about authenticity]]
+
+**" Cultural Zeitgest"**
+- [ ] [[tell me what you taste | notes on taste]]

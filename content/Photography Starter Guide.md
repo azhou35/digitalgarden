@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ### My Current Setup 
 #### Camera Gear
 1. My mirrorless starter kit: 

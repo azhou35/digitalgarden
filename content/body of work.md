@@ -1,0 +1,2 @@
+- li young lee: sentence is a unit of identity.. a line, too, is an instance of identity.
+- chan: writing is an act of identity making - every word, a clavicle, a femur, a sentence, an organ.

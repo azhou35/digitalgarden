@@ -1,0 +1,5 @@
+- my manager is struggling - our skip just got fired, and the one project that aligns with our org's okrs is the planned maintenance for open ai 
+- but she fundamentally doesnt understand the concepts and is posturing to other teams that she owns it 
+	- wasting every one's time with her questions
+- aditya is worried - she presented to leadership using my document but they were alle xpecting a different scope so she looked bad 
+- 

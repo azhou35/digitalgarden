@@ -1,0 +1,9 @@
+()There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we’ve ever known.
+
+Denis Diderot observed in theatrical actors a kind of dual consciousness. To act well, it helps greatly if they come to _be_ their characters, experiencing the emotions and desires of their characters as deeply as possible. But they are simultaneously conscious of themselves one step removed, as actors. I am not an actor, but have sometimes been asked to fulfill roles (host, emcee, usher, and so on) that seem to require a similar dual consciousness.
+Over and over we switch between two vastly different points of view: in one, he is deeply empathetic and warmly human:
+
+> That’s here. That’s home. That’s us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every “superstar,” every “supreme leader,” every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam.
+
+But he also repeatedly switches to another point of view, in which humanity is tiny and insignificant. And then he will switch back again to the human level. This repeats multiple times, powerfully juxtaposing two vastly different points of view, points of view in what might seem superficially like strong conflict. The net effect is an expansion of consciousness, as you begin to merge these two types of consciousness.
+[[syncresis]]

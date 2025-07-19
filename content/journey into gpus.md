@@ -1,0 +1,2 @@
+maybe it all starts in bell labs, when i grew up near the silicon valley of the west coast.
+then it gets to receiving an alienware for my technical writing internship, way overkill for documentation but because i was working on a gaming engine. 

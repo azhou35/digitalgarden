@@ -1,0 +1,6 @@
+- birthday party as a social investigation on systems, network theory, graphs, and information transfer
+- reaching out back to steve / raymond
+- random walk layer atop obsidian notes 
+- thoughts on graphs / scientific visualization
+	- im notoriously bad w 3d vs 2d 
+- scivis kind of crucial to my growth 

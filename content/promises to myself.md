@@ -1,0 +1,1 @@
+i will bet on myself $100K - either on a startup or an mba

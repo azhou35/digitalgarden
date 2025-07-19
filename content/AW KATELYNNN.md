@@ -1,0 +1,6 @@
+sorry didnt respond for a bit but im sitting down and reading !!! 
+are your emotions related to work or thomas or yourself? i feel lke its sooo valid to feel emotionally turbulent rn bc ur starting work AND freakin studying for exams liek that is so much all at once
+AND AND i feel like its to get happiness from thomas BUUUUT i am also for rediscovering yourself independent of a relationship, especially when u guys r both in states of lux atm. 
+i think this is all to say this is a good inflection point for you to take a step back and think about what gives you happiness (like that trend of a dopamine menu -- it feels kinda silly but i love the idea of outlining which lil things make us happy, like running or going to bakeries or sunsets, that is something that we can control and not dependent on external factors like a s/o or a job)
+i love the idea of becoming katelyn again !! bc u are always becoming yourself .. and summer just feels like a weird season tbh but i think fall is rlly when we retun to urself :')
+I KNOW I WAS A LITTLE BAD W RESPONDING BUT IM HERE FOR U KATELYN if there r any specifics u wanna go into lmk !! or even discovering what motivates us outside of work/s/o im here to think about it cuz its such an important question

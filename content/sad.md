@@ -1,0 +1,5 @@
+w![[Pasted image 20250211162644.png]]
+![[Pasted image 20250211162716.png]]
+there this notion that with you i can push beyond the threshold of anything i thought was possible. i can be happier than i ever thought i could be - more ambitious, more dutiful, more loving, more caring. there's still no day happier than brooklyn navy yard, when the summer sun dipped into the skyline and the sky exploded in orange. with you, i have a relationship that pushes boundaries - the extent at which we can love, care, and empathize for another. 
+kai xin, to open your heart, is the notion of happy you make me feel. if the heart were container it'd be endlessly flowing.
+to open yourself to another person should be terrifying and uncertain but it only feels natural - there's no doubt in my mind you'll treat it with care.

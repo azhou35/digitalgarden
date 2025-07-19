@@ -1,0 +1,6 @@
+[The Question Concerning Technlogy](https://www2.hawaii.edu/~freeman/courses/phil394/The%20Question%20Concerning%20Technology.pdf)
+
+In [The Question Concerning Technology](https://www2.hawaii.edu/~freeman/courses/phil394/The%20Question%20Concerning%20Technology.pdf), Martin Heidegger warned that technology is not just a collection of tools, but a way of seeing the world, a revealing that both illuminates and conceals. Heidegger’s “enframing” (Gestell) describes technology’s insidious power to frame everything (nature, humans, even time) as “standing reserves,” ready to be ordered, manipulated, consumed.
+
+“Everywhere everything is ordered to stand by, to be immediately at hand, indeed to stand there just so that it may be on call for further ordering.”
+He saw a paradox: technology both reveals and conceals. It produces astonishing new worlds, but only by flattening the world into what can be stored, indexed, and summoned at will. In the digital age, this is literal. Every social act, every click or hesitation, becomes a data point, a potential input to someone’s model.

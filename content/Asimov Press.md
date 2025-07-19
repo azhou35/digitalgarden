@@ -1,0 +1,19 @@
+Most of our work centers around biology and metascience — the systematic study of science itself. Our emphasis on biology is deliberate, for that is the field where progress seems the most rapid and where the potential to radically improve the world — from longevity to climate and animal welfare — is arguably the greatest.
+
+A century ago, two young researchers [extracted insulin](https://www.umassmed.edu/dcoe/diabetes-education/patient-resources/banting-and-best-discover-insulin/#:~:text=Banting%20%26%20Best%3A%20The%20Discovery%20of%20Insulin&text=The%20breakthrough%20research%20took%20place,Dr.) from dogs and used the molecule to treat people with diabetes. In the 1950s, the U.S.D.A. bred screwworms, sterilized them with X-rays, and airdropped them over Texas to [decimate invasive screwworm populations](https://www.nal.usda.gov/collections/special-collections/edward-fred-knipling-papers-screwworm-eradication-program-records), which killed hundreds of thousands of cattle each year. The human insulin gene was [cloned into bacteria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714061/#:~:text=In%201978%2C%20the%20first%20recombinant,chains%20expressed%20in%20Escherichia%20coli.) in 1978. Dolly the Sheep was cloned in 1996.
+
+For a long time, such stories were relatively rare. Now they seem to happen every month. Dozens of cell and gene therapies have been FDA-approved. Engineered microbes [convert steel factory waste](https://www.nature.com/articles/s41587-021-01195-w) into ethanol. Some vaccines are [designed on computers](https://www.geekwire.com/2021/icosavax-co-founder-uw-researcher-neil-king-talks-vaccine-development-digital-era/). And [95 percent](https://www.fda.gov/food/agricultural-biotechnology/gmo-crops-and-food-animals#:~:text=Do%20animals%20eat%20GMO%20crops,United%20States%20eat%20GMO%20crops.) of livestock in America are fed with genetically modified crops. Our food and medical systems are already reliant upon biotechnology. In a few decades, so too will just about everything else.
+
+Asimov Press publishes work that makes sense of these swift developments and the concomitant risks that emerge alongside them. We publish narrative, data-driven pieces that make sense of scientific progress, deconvolute messy ideas, and contextualize new ones. Our goal is to publish articles and books that will be read and revisited long after they were written.
+
+Asimov Press is an editorially-independent publishing team funded by [Asimov](https://www.asimov.com/). We are:
+
+**Builders:** Asimov Press aims to build a vibrant, intellectual community of readers. Our goal is to create a thoughtful network of writers and readers, who, while interested in theory, are even more interested in how things work and what we can actually make happen.
+
+**Vigilant:** While scientific progress can be used to do good in the world, it can also carry concomitant risks that we take seriously. Asimov Press has a moral imperative to guide readers and researchers to do the right things with these emerging capabilities.
+
+**Mechanistic:** Science is not magic. Even the most inspiring outcomes in science have physical explanations. Our pieces are mechanistic, precise, and clear. They deeply explain _how_ things work and _why._ ‍**‍**
+
+**Fair:** We are excited by the good that science can do for the world, but there are often better ways to accomplish the same goals. We are not here to evangelize. Our articles are charitable to, or steelman, alternative approaches.
+
+**Data-driven:** Our articles do not rely on hype or hyperbole. They provide quantitative evidence, demonstrate probabilistic reasoning, and are assiduously fact-checked. When factual errors are found in an article, we update them with a correction.

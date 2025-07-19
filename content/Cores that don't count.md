@@ -1,0 +1,2 @@
+https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
+"What the authors report--and supposedly this is common knowledge at the hyperscalers--is that a couple cores per several thousand machines are "mercurial." Due to subtle manufacturing defects or old age, they give wrong answers for certain instructions. These can cause all sorts of impossible-to-diagnose issues. Some rare problems at Google that were traced back to bad CPUs include:"

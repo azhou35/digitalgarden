@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 every relationship is either a soft shell or hard shell fruit
 * soft shell, soft inside - fuyu persimmons - burst at the seams
 	* aka you make me feel so much and i feel so close to you i will literally overflow with conversation

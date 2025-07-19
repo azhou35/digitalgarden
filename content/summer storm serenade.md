@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 on the last day of june the city sweats itself sticky. 
 something intoxicating about the dampness that precedes thunderstorm.
 humidity-entrenched, understand why some call air a *medium*—feel 

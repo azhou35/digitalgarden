@@ -1,0 +1,11 @@
+- cheap tricks - ruled out jokes about sex, we don't like easy pictures of little island 
+- clutter vs selective taste
+- product deisgn archetype
+- staring into the void [[staring into the abyss]]
+	- is it your love for craft thats holding you back 
+	- im surprised andrew responded so candidly and cleanly!
+- andrews method of observing art (from sontag)
+	- don't try to contextualize it analyze it - just focus on what it makes you feel
+- andrew resisting tattoos bc he thinks the body and every body part should be able to be viewed in all directions
+- photography and comedy is about shining different lights on the same things
+- L'appel du vide

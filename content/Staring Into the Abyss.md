@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Inspired by [Staring into the abyss as a core life skill | benkuhn.net](https://www.benkuhn.net/abyss/)
 (WIP)
 - *If you had to leave your job today, what would you do instead?*

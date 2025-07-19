@@ -1,0 +1,3 @@
+To manage such complexity, studios began relying on off-the-shelf engines like Unreal Engine and Unity in the [early 2000s](https://lsvp.com/stories/gaming-ai-market-map-the-infinite-power-of-play/), which modularized game development and allowed indie developers to participate more actively in the industry.
+
+katelyn im so sorry for your loss :( i can't imagine what you're going through but i know it must be painful beyond words... im here to listen, talk, be there for you in any way that you need 

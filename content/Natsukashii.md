@@ -1,0 +1,3 @@
+nostalgic longing for the past, with happiness for the fond memory combined with sadness that it is no longer
+懐かしい
+This word uses the kanji 懐 , which can describe a feeling one carries in the heart or bosom. Apparently the whole word [initially meant](https://en.wiktionary.org/wiki/%E6%87%90%E3%81%8B%E3%81%97%E3%81%84) wanting to keep something close, but was later used to describe fond remembrances of things past

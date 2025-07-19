@@ -1,0 +1,2 @@
+- you can't control your outputs but you can control your outputs
+- networking w random ppl will not get ua  job but it will get u one step closer

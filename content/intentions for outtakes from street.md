@@ -1,0 +1,5 @@
+- a series recounting my photography process & philosophy. i launched my substack in tandem with my photography account and this is no mistake - they're both a reflection of how i see the world. the details i fixate on & what colors my point of view.
+- i have many street photo idols 
+- many film theorists i look up to
+- and ofc the prose writers i enjoy
+- lets pull in inspo from these sources and write from heart

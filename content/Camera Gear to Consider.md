@@ -1,0 +1,5 @@
+- get new diffusion filter / circlar polarizer filter for 23m
+	- [Amazon.com : JJC 43mm ND Filter ND2-2000 VND Variable Neutral Density Adjustable Fader for Canon EF-M 22mm f2,RF 16mm f2.8, for Fuji Fujifilm XF 35mm f2,XF30mm f2.8,XF 23mm f2 & More Lenses with 43mm Filter Thread : Electronics](https://www.amazon.com/JJC-ND2-2000-Variable-Adjustable-Fujifilm/dp/B097T4PF4X/ref=sr_1_1?crid=1LUR5EMTAGE80&dib=eyJ2IjoiMSJ9.72mPz4M-O-9X5SvZlHTSRtE_mECWYcKrl5PNMFdx0MlzQiFeSBdkeh1LGfG6vHru-rQoxLk5z_ZJWlz6iU24revYL4jVeDfDUJ4ZFKvZXPmNedF9j3shqeeJ-4mPl7Z-J0BnGz7lD1cDOHlnB6BJVA.P4inPqt5aDsfmym3iBOJOsigXME11eJ3B6EcYuaBkA8&dib_tag=se&keywords=neutral%2Bdensity%2Bgraduated%2Bfilters%2Bfuji%2B23mm%2Bf2&qid=1736292697&sprefix=neutral%2Bdensity%2Bgraduated%2Bfilters%2Bfuji%2B23mm%2Bf2%2Caps%2C82&sr=8-1&th=1)
+- consider p+s film 
+- consider new body 
+	- xt-5 

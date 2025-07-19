@@ -1,0 +1,2 @@
+- some aggregation service that reads ur notion calendar data and tracks how much time you're spending on social stuff and whether you should reprioritize ur own goals insead
+- 

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 i wish more than ever that i could bottle up this past hour, running down the waterfront this balmy october morning. the type of weather where your hands tingle themselves silly and you run a little faster to stay a little warmer. 
 words fail, pictures fall short, videos scratch the surface of this indescribable feeling. how can i help you see the world the way i did in that moment? 
 i could wax poetic a million times about the autumn leaves -- the honeylocus leaves the perfect shade of canary such that they glow under the withering sun's gaze; the fuzzy shadows they cast against grey boardwalk; the one tree by bpc esplanade's right angle that stays green, save for one patch of yellow. i've been trying to take pictures but they never end up quite right. my own corenas are overwhelmed by the sun's withering gaze, so i sympathize with my poor fujifilm, its sensors confused by the contrast caused by high noon, the intense shadows and overexposed brights. 
@@ -9,6 +13,5 @@ i know why i write. it's because i am helplessly inept at articulating how i fee
 fall last year i picked up *the unbearable lightness of being* for attraction to the title alone. what do you mean, a lightness so magnificent it's unbearable? it's an innate spirit that you cannot encapsulate (a pattern language)
 these are the moments that move me to write. so moved by the amount of life i've lived it spills out uncontrollably. i write better from positive / bittersweet feelings as opposed to negativity. 
 my inspiration to write comes from a [[permeability to wonder]]. 
-
 
 we are chasing this [[nameless feeling]]. technology attempts to reverse-engineer this serendipity. 

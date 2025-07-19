@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Favorite Articles:
 * [https://open.substack.com/pub/nicoles/p/intimacy-thresholds?r=7hgq8&utm_medium=ios](https://open.substack.com/pub/nicoles/p/intimacy-thresholds?r=7hgq8&utm_medium=ios)
 - [https://open.substack.com/pub/wayhome/p/so-much-depends-upon-an-open-door?r=7hgq8&utm_medium=ios](https://open.substack.com/pub/wayhome/p/so-much-depends-upon-an-open-door?r=7hgq8&utm_medium=ios)

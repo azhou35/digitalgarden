@@ -1,0 +1,2 @@
+[Contextual Integrity Up and Down.pdf](https://nissenbaum.tech.cornell.edu/papers/Contextual%20Integrity%20Up%20and%20Down.pdf)
+[No_Cookies_For_You_Martin_Nissenbaum_Shmatikov-2025.pdf](https://nissenbaum.tech.cornell.edu/papers/No_Cookies_For_You_Martin_Nissenbaum_Shmatikov-2025.pdf)

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 sarah kay [[sarah kay commencement speech|once]] said something along the lines of: *every time i am writing i wish i was out living. every time i am living i wish i was in writing.*
 
 my initial takeaway was that living a full life was at odds with reflecting on my [[interiority]]. to my surprise, the year that i've lived the most fully is also the year i've written the most. i now understand that i need to live a life worth writing about, and write in a way that makes life worth living. there's a synergy to cultivate between consumption and creation, and with each year i'm approximating an equilibrium.

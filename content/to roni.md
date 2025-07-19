@@ -1,0 +1,2 @@
+()hey* roni! sorry it took some time to return a response (i was out for the holiday weekend!) 
+some things have come up this friday and next week -- i think given my schedule and priorities right now i may not be the best fit to help you shoot your projects -- lmk if you want me to ask around for other videographers who may be interested :) 

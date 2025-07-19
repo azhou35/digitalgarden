@@ -1,0 +1,19 @@
+- by french sociologist maurice halbwachs
+- group-oriented construct derived from individuals'association and reconstruction of past experiences, classified by collectivity, continuity, and constructiveness 
+
+urban space/form act as containers of memory
+- collective identity and historical consciousness are constructed thru specific buildings, spatial configs, events, and how they convey symbols and meanings of collective memory
+
+old historical scenes coexist with new commercial landscapes
+
+
+
+theme of “collective memory and landscape” builds upon Guy Debord’s notion in The Society of the Spectacle, which posits that modern social space is shaped by a symbolic system of “spectacle”. The “spectacle” refers to a mediated reality in which social relations are increasingly experienced through images and representations rather than through direct experience
+
+In his seminal work, _The Image of the City_, Kevin Lynch proposed that people form mental representations, or “images”, of their urban environments, consisting of five fundamental spatial elements: paths, nodes, landmarks, districts, and edges[21](https://www.nature.com/articles/s40494-025-01806-8#ref-CR21 "Lynch, K. The Image of the City (MIT Press, 1964)."). Respondents were asked to draw hand-sketched maps of specific urban areas based on their memories using these five elements[21](https://www.nature.com/articles/s40494-025-01806-8#ref-CR21 "Lynch, K. The Image of the City (MIT Press, 1964)."). These sketching exercises were often accompanied by verbal interviews[22](https://www.nature.com/articles/s40494-025-01806-8#ref-CR22 "Appleyard, D. Styles and methods of structuring a city. Environ. Behav. 2, 100–117 (1970)."), questionnaires[23](https://www.nature.com/articles/s40494-025-01806-8#ref-CR23 "Gärling, T. & Golledge, R. G. Environmental perception and cognition in Advances in Environment, Behavior, and Design (eds. Zube, E. H. & Moore, G. T.) 203–236 (Springer, 1989)."), and cognitive tasks[24](https://www.nature.com/articles/s40494-025-01806-8#ref-CR24 "Moore, G. T. Knowing about environmental knowing: the current state of theory and research on environmental cognition. Environ. Behav. 11, 33–70 (1979)."). However, such studies are time-consuming and generally limited in sample size. This method addressed the question of how individuals externalize their spatial knowledge of familiar environments, providing a foundation for the framework of spatial cognitive structure. Through conducting field studies in cities such as Boston, Lynch later discovered that these mental maps were not solely individual. Due to overlapping experiences among many people, shared urban images could emerge at a population level[21](https://www.nature.com/articles/s40494-025-01806-8#ref-CR21 "Lynch, K. The Image of the City (MIT Press, 1964)."). These public images transcend individual cognition and essentially suggest an underlying framework of collective memory. Halbwachs emphasized that groups “inscribe” their experiences into everyday environments, noting that _places are containers of memory_, and space offers a material anchor for memory[3](https://www.nature.com/articles/s40494-025-01806-8#ref-CR3 "Halbwachs, M. On Collective Memory (University of Chicago Press, 2020).")
+
+"digital networked memory"
+- collective personal recollections to converge in real time 
+- geo-tagged texts, photographs, and videos repesent the digital inscription of contempoary urban memory
+
+four factors as indicators for memory strength analysis: frequency, time span, emotional intensity, and influence level. Frequency reflects the activity level at each check-in point, directly correlating with the spread of collective memory

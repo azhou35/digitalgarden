@@ -1,0 +1,37 @@
+- hosting dinner parties for friends 
+	- [[social ideas/speculative dinner party ideas]]
+- go to brooklyn poets
+- go to slam poems
+- lean into my poetry
+- go to yu & me books
+- game plan for making friends in nyc:
+	- join becloser 
+	- reach out to upperclassmen
+		- ivy wang 
+		- angela chen 
+		- alethia chan
+		- serena chen 
+		- jasmine nie 
+		- emily liu
+		- sergio 
+		- alyssa zhang
+		- connie liu
+		- michelle keoy 
+		- sean yu
+		- becky han
+		- aastha 
+		- ragini 
+		- khuslen
+		- selene xu
+		- emily ma
+		- holly qu 
+		- andrew yan 
+		- clarissa
+		- joy hong
+		- ashley
+		- manan modi
+		- cami
+		- claire ko
+- work on community building efforts
+	- co living houses
+	- lol i throw nyc community parties in hopes of re-attracting my tech founder ex

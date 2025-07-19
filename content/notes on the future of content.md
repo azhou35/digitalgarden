@@ -1,3 +1,8 @@
+---
+published: 
+publish: true
+---
+
 *in response to a good friend's thesis*
 
 * existentially interested by identity formation in content creation & consumption -- if it we form our identities around the things we consume (see: https://www.google.com/url?q=https://evilfemale.substack.com/p/personal-style-is-dead-and-the-algorithm?s%3Dr%26curius%3D1299,2184,562,2441&sa=D&source=docs&ust=1721748930166978&usg=AOvVaw1xaGHt2jT5V9DkKd2Pp7N_) OR the things we create -- and it becomes easier to both consume and create generic content -- how does that affect the way we live authentically on the internet?

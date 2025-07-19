@@ -1,0 +1,7 @@
+### The New Datacenter
+
+A wholesale shift is happening in datacenter workloads. The spotlight shines brightly on Nvidia's stock price, supported by decades of investment in CUDA, a capacity-restricted supply chain, and incredible pace of progress. Most would say that buying anything but Nvidia chips today is economically irrational.
+
+New chip efforts are expensive and harrowing, Nvidia is formidable, but money geysers invite competition. TPUs are clearly working for Google. Is the time right to bet the farm on transformers, and focus more area on matrix math? Can chips be reconfigured to reduce interconnect/memory bandwidth requirements? Can there be a real alternative to NVLink? What pockets of workload support a full-stack optimized systems company? What about a focus on latency-bound inference? What would it take to partner with and make AMD more competitive?
+
+The market, especially large, sophisticated players, want a second source.

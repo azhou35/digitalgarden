@@ -1,0 +1,1 @@
+term defined by [Jack Halberstam](https://en.wikipedia.org/wiki/Jack_Halberstam "Jack Halberstam") as a disproportionate focus on urban environments motivated by a stigma against rural cultures and societies

@@ -1,0 +1,1 @@
+The deeper psychological reason why we constantly distract ourselves in modern times is dissatisfaction with life. Many of our human needs aren't being met. And many people don't have the power, tools or belief to change their condition.

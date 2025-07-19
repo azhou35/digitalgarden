@@ -1,0 +1,3 @@
+[(1) on being selective - by Isabel - Mind Mine](https://read.mindmine.xyz/p/selective)
+. To open yourself up to inspiration, or to spend time alone and re-center. These decisions appear incessantly. So, I’m writing this to remind you (me) that when you are around experiences that start to feel consistently more attractive than alone time, be cognisant of how easy it is to loosen your grip on protecting your solitude—the core pillar of your well-being. No external experience, no matter how juicy and enriching, can replace it. As Charles Bukowski famously said: _isolation is the gift._
+Because again: _no matter how aligned the experience, it can’t replace solitude._

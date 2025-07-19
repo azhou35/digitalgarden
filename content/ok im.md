@@ -1,0 +1,6 @@
+ok im writing this down bc when i try to record a VM i sound funny HAHAHA
+yeah ur v right that the high costs of these ai companies come from the compute power they need -- inference jobs require low latency (which is how long it takes from input->output, aka generate whatever result u want from the ai model), and the training part needs super strong gpus to process all that data, esp when its a deep learning model
+and baseten prob is a huge cost savings for a customer who has a scrappy data engineering team missing the resources / knowledge to spare to figure out autoscaling on their own and isnt big enough to get the "white glove treatment" from a cloud service to move onto the cloud (i realize that the support that i mentioned before only rlly applies to like huge enterprise customers, who get the "white glove" service)
+i think im still confused on their aws comparison bc baseten is on aws marketplace and they seem to be partners w them & nvidia so i think if u use their cloud it's just aws? but the cost savings def comes into that their users prob waste less on gpus bc of the autoscaling thing 
+u should send me hte podcast and ill see wat they say
+[GCVF Application Form Fall 2024 (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScUfLoTd1G55EHMzVxYfH70VIyCmr0II-3_xDxZ5asOggFQsw/viewform)

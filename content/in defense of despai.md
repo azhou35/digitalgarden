@@ -1,0 +1,1 @@
+"yes i did not want to get out of bed this morning, but there was one single long shard of sunlight that sumbled in through a tear in my curtains, and the warmth of it hitting my arm got me to that first hour of living"

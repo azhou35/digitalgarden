@@ -1,4 +1,8 @@
-forked from [[spring notes on creativity]]
+---
+publish: true
+---
+
+forked from [[spring 24 notes on creativity]]
 how do you value art?
 - aesthetic value
 -- its never lost -- it gets transferred from person to person
