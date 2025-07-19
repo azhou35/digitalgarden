@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/) 
 Abstracting Over This Example
 **my thoughts**: data vis a perfect way to go up and down the ladder of abstraction
@@ -5,7 +8,7 @@ writing as well - finding the right metaphors
 metaphors/data vis are textual/visual ways of translating dense information into discernable insights
 is there a next-gen way of imagining networks
 
-**Summary**
+## **Summary**
 So far, we've been looking at a toy example. Real-world systems may be more complex, but they all share the same general anatomy: an independent variable (such as time), a structure (such as an algorithm), and a dataset (such as an environment).
 
 - The **independent variable** is usually time. This is our way of thinking about _causality_ — a system's state depends on its previous states in time. Even for systems that are normally expressed with multiple independent variables, such as heat diffusion or wave propagation, we typically _think_ of the system as evolving over time.

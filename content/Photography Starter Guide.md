@@ -45,3 +45,4 @@ Other musings on photography:
 	4. [[street photography]]
 	5. [[syncresis]]
 	6. [[Introvert vs Extrovert Activities]]
+	7. [[content/the camera as a social distance device|the camera as a social distance device]]

@@ -1,5 +1,5 @@
 
-on existentialism in the age of the internet
+*on existentialism in the age of the internet*
 
 we encounter captchas in our daily life but i bet you wouldn't get the acronym: "Completely Automated Public Turing Test to Tell Computers and Humans Apart."
 
@@ -12,11 +12,9 @@ there are mini-turing tests i run on myself, unit tests on authenticity. and the
 
 there have always been absurd ways tech companies utilize captchas to preclude bots, and i imagine they'll only evolve as the agentic layer comes for the internet. 
 
-
-on writing on the internet. 
-
 authenticity is a core value to me and a constantly moving target. it's no coincidence that i am drawn to self-interrogations of the self. 
-rarely are we truly authentic on the internet. we are 
+rarely are we truly authentic on the internet. yet i am drawn to people in power who are raw and honest about their faults; see artists like lamar: 
+
 ![[Pasted image 20250419095846.png]]
 ![[Pasted image 20250419124506.png]]
 there is no better gift than to live unknown on the internet. because strangely that is when you can be the truest to yourself.

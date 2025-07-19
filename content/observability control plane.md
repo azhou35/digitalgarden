@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 I believe that single-pane systems-level observability - the practice of instrumenting, correlating, and autonomously acting on multi-modal telemetry - will be the linchpin of reliability and efficiency in any complex, high-stakes infrastructure. By viewing relationships and casual chains across components of a system, you can not only diagnose systems but prevent them before they cascade. 
 
@@ -16,17 +19,3 @@ Most observability planes are built for decision makers - what would a developer
 
 I'd love to apply my learnings from supercomputing maintenance and see what other large-scale systems can benefit from a multidimensional control plane. Any domain that relies on a highly complex system in which telemetry is available, downtime/failures are costly, and there is proactiveness. In a factory, imagine if you can map out all the dependencies of what machines and components depend on each other and you're able to monitor the telemetry of machines in order to predict failures before they happen.
 
-however, a common mistake as a data engineer/scientist is that the dashboards you create are not frequently viewed. 
-
-These unknown unknowns are what kill AI projects.  
-  
-When product lines unexpectedly change or seasonal patterns change, everything breaks.  
-  
-The solution:  
-  
-Build monitoring systems that act like smoke alarms.  
-  
-First, detect that there's a problem.  
-Then identify where it's coming from.  
-  
-G

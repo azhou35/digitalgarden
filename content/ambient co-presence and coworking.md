@@ -1,4 +1,8 @@
+---
+publish: true
+---
 
+*published on [substack]([ambient co-presence - by anniething & anniewhere](https://anniewhere.substack.com/p/ambient-co-presence?utm_source=profile&utm_medium=reader2))*
 **ambient copresence: reflections on writing club**
 
 loneliness has a specific flair on an urban stage. a peculiar ache of being surrounded by millions: we brush shoulders on the packed subway cars, share tables at crowded cafes, yet each exist in our own private blizzard. the strange paradox of living in a lonely city has made me wonder: what if the remedy isn't more active socializing but a different kind of togetherness altogether? 

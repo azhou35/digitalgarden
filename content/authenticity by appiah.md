@@ -1,3 +1,6 @@
+---
+publish: true
+---
 invention and appiah:
 [[content/Invention and Authenticity|Invention and Authenticity]]
 there are two false dichotomies for what is considered to shape one's indiviudualism

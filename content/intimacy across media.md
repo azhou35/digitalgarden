@@ -1,6 +1,10 @@
+---
+published: 
+publish: true
+---
 *on digital and physical bids for connection*
 forked from [[her in 2025]]
-
+published on substack 
 ## outline 
 * greeting cards 
 ### authenticity of hand-written cards

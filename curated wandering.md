@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 The flâneur's path appears random but is guided by curiosity and attraction. This describes a middle path between structured exploration and pure chance—a mindful wandering that follows intuitive pulls while maintaining awareness.
 

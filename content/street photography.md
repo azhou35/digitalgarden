@@ -45,3 +45,6 @@ what is your career-defining moment?
 my friend just started a new job and im living for his excitement vicariously. he's asked me about the times where i've felt on top of the world.
 i realize that my ambition can be boiled down to chasing down that *it moment*. the glory shot that would define my photography career -- the chapbook that 
 this is not to say im chasing one hit wonders --ooo just that all of withering, dilly dallying, is worth it if it builds up to 
+
+also see:
+[[content/the camera as a social distance device|the camera as a social distance device]]

@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 is being able to transverse up and down the [[ladder of abstraction]]. im constantly inventing ways to justify the existence of my job and this is the latest: my strength lies in navigating the hyperdimensionality of a problem space and reorienting the situation to match the mold expected by the listener.
 let me explain. i'm able to listen to developers deeply operating within x dimension, take this information and project it onto an adjacent coordinate plane understood by the customers. if you think about the jobs within tech, the farther away you are from the actual technology, the more levels of abstraction you are. let's imagine data as an example. perhaps the site reliability engineer is physically operating the machines that are producing data; which is ingested by the software engineer via code; which is queried into a dashboard by the data analysts; which is prepared into an excel sheet by a buz dev; which funnels into key results and strategy insights for a marketing team. now as the pm, i am responsible for being able to run up and down this track. 
 there is power in thinking in hyperdimensionality and operating as the generalist. i saw it with my experience managing the crd window for oai - i had to be the one getting into calls with all the developers and corral people into making decisions on the updates we would deliver to our customer.

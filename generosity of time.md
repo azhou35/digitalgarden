@@ -1,3 +1,6 @@
+---
+publish: true
+---
 i am delighted by humans above all. 
 
 for my birthday i drew menus and made stickers and prepared matcha the night before.

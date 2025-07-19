@@ -1,7 +1,10 @@
+---
+publish: true
+---
 behind the camera gives you the perfect anthropologist position: present but removed, participating but with plausible deniability for non-participation. you get to document your personal life, which lets you study social dynamics without being full vulnerable. 
-it's my default mode: i can slide behind camera (literally or metaphorically when soical situations get too intesne or performative)
+it's my default mode: i can slide behind camera (literally or metaphorically when social situations get too intense or performative)
 
-*authenticity is a core life theme* which makes my people-pleasing tendency make sense - if im constantly aware of the performance layer of social interaction, you are hyper-attuned to what others expect - a camera lets you study these dynamics without committing to any particular performance yourself. 
+*[[content/authenticity|authenticity]] is a core life theme* which makes my people-pleasing tendency make sense - if im constantly aware of the performance layer of social interaction, you are hyper-attuned to what others expect - a camera lets you study these dynamics without committing to any particular performance yourself. 
 
 i seek performance in a world that is overly performative esep at social events - i love being behind the camera to document & observe, and examine the social operating system, as a hyper examiner
 

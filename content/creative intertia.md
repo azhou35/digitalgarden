@@ -1,3 +1,6 @@
+---
+publish: true
+---
 how do you value art?
 - aesthetic value
 -- its never lost -- it gets transferred from person to person

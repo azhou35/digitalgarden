@@ -1,3 +1,6 @@
+---
+publish: true
+---
 - i am interested in interfaces bc of the same reason i am interested in authenticity + individualism - 
 - i think every product has a very unique value prop and inner core sense
 - and the ability of the interface to convey the affordances tat suggest potential use cases of the product relies on a balance of storytelling, candor, and efficacy
