@@ -11,9 +11,7 @@ Baseten:
 
 My proudest achievement was building a multi-agent solution that eliminated deployment friction for genomics researchers. In high school, I dreamed of working in biotech. Though I traded pipettes for computers, I stayed connected to this passion at Microsoft by working closely with our genomics research team, who were heavy users of our team's workload scheduler.
 
-Despite their expertise, I watched researchers struggle moving from on-prem to cloud infrastructure. So I partnered with our research teams to prototype a copilot that could translate natural language research requirements into optimized HPC workflows — reducing deployment time from weeks to minutes.
-
-The challenge wasn't just technical architecture, but business advocacy. I synthesized insights from dozens of research organizations to secure resources and coordinated across engineering and business teams to ship a solution that accelerates research across multiple organizations. 
+g
 
 This demonstrates exactly who Baseten needs: someone to translate customer insights into product direction, and push hard to align incentives across engineering and GTM folks to deliver for customers. What excites me most remains the same: eliminating friction so customers can focus on breakthrough  innovation instead of deployment complexity.
 

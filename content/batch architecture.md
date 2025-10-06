@@ -1,0 +1,1 @@
+[Use Azure Batch to run Financial Service Industry (FSI) workloads - Microsoft for Financial Services | Microsoft Learn](https://learn.microsoft.com/en-us/industry/financial-services/architecture/fsi-workloads-using-batch)

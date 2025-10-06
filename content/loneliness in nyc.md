@@ -1,0 +1,1 @@
+**A few weeks ago, I asked a bunch of strangers to tell me about a time and place they felt lonely in New York City.** I went to those places and photographed them. This project was inspired by a book I read in June, _Loneliness & Company_ by Charlee Dyroff. It asks questions about the ideas that connect all of us: what it means to be here, alive, together, human.

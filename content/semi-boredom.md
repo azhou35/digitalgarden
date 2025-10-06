@@ -1,0 +1,6 @@
+Schopenhauer’s pendulum is the idea that life swings endlessly between the pain of lacking and the boredom that follows satisfaction.
+
+> “**Behind every striving is a painful lack of something**, Schopenhauer claims, yet obtaining this thing rarely makes us happy. For, even if we do manage to satisfy one desire, there are always several more unsatisfied ones ready to take its place. **Or else we become bored,** aware that a life with nothing to desire is dull and empty. If we are lucky enough to satisfy our basic needs, such as hunger and thirst, then in order to escape boredom we develop new needs for luxury items, such as alcohol, tobacco or fashionable clothing. **At no point, Schopenhauer says, do we arrive at final and lasting satisfaction.** Hence one of his well-known lines: “life swings back and forth like a pendulum between pain and boredom.”
+> 
+> [David Bather Woods, “The semi-satisfied life”](https://aeon.co/essays/for-schopenhauer-happiness-is-a-state-of-semi-satisfaction)
+> 

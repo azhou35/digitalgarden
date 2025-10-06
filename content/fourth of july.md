@@ -8,7 +8,7 @@ there's a forbidden zone, separating the "red" ticket buyers from the "blue" (a 
 
 there's music playing from a speaker. at times, country roads, miley cyrus, sweet home alabama. at the last one, this set of characters (who i've now imprinted on as if they were stars in a sitcom) gleefully perform their best efforts. at the chorus they break out into full out dance. the guys pumping at the sky, their collective voices into uproar. 
 
-noticing my lingering eyes, my mom asks me if i have any like these folks. i laugh because she knows all my friends and who i get along with. 
+noticing my lingering eyes, my mom asks me if i have any like these folks. i laugh because she knows all my friends and who i get along with. we hold patriotism at an arm's length. cynicism is intellectual, or so we tell ourselves.
 
 when ymca starts up the crowd goes feral, all the zumba moms standing up to splay their arms to the tune of the song. my mom joins in, though she doesn't quite know how to spell ymca. 
 
