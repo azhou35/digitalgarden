@@ -2,17 +2,21 @@
 title: "🪴 anniez"
 publish: true
 ---
+### 🌱 Genesis
+ Planted 10/27/24 in NYC. Last watered 10/6/2025.
+### 🤠 Welcome!
+I'm Annie.
 
-Welcome to my little corner of the Internet — a digital garden where I collect thoughts, writing, and ideas as they grow.
+I grew up in Jersey, spent time in upstate New York, and now split my time between NYC and SF. I'm drawn to cities, systems, and the people and processes that keep them alive. I'm a techno-optimist who cares about making technology accessible for people of all backgrounds. In undergrad, I wrote learning materials for AI4ALL and contributed to open-source NLP tools.
 
-I grew up in Jersey, spent time in upstate New York, and now split my time between NYC and SF. I'm drawn to cities, systems, and the people and processes that keep them alive. I'm a techno-optimist who cares about making technology accessible for people of all backgrounds. In undergrad, I wrote learning materials for AI4ALL and contributed to open-source NLP tools. I'm energized by those who share a sense of generosity, are curious and intentional, and true to who they are.
+I've been using Obsidian as my [note-taking system](notetaking) since November 2024. I periodically publish high-fidelity notes & works-in-progress on this [[digital garden]].
 
-Feel free to wander around. You can start by browsing:
+I believe in file over app, the humanness of the em dash, and notes as building blocks for bigger ideas.
+Check out my [blog↗](https://anniewhere.substack.com/), [digital garden↗](https://azhou35.github.io/my-digital-garden/), and [bookmarks↗](https://curius.app/annie-zhou).
+### Ephemera
+* Street photography -- see [[Photography Starter Guide]], or [[street photography]]
+* Writing -- see why I write at [[ars poetica]]. Or, my withering [[Backlog of things to write about]]
 
-- **[[content/Articles/|Writing]]** — essays on solitude, design, coffee, and more
-- **[[tech/|Tech]]** — notes from the world of infrastructure and computing
-- **[[urbanism/|Urbanism]]** — thoughts on cities and spaces
-- **[[poetic phrases/|Poetic Phrases]]** — language that stuck with me
-- **[[mind dump/|Mind Dump]]** — raw, unfiltered thinking
-
-Or use the search bar and explore the graph to see how ideas connect.
+### Collections
+* Movies: [Letterboxd](https://letterboxd.com/)
+* Songs: [Spotify](https://open.spotify.com/user/kokorodamasu?si=0571e34c32494578)
