@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # LAI RAI: WHERE VIETNAMESE CULTURE MEETS NATURAL WINE
 
 There's a moment of disorientation when you first step into this unassuming spot on Forsyth Street. The tan yellow walls and elegant long marble bar might gesture toward Parisian wine bar—but what you hear suggests otherwise. The unexpected lilt of Vietnamese new wave floats above the symphony of conversation, clinking glasses, and the distinctive ping of spoons against metal cups.

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 notes from my first solo trip in london
 
 last week i hopped off of a call in tears [[mind dump/dump for how i feel about oct 2023]], and hopped onto a plane to london for my first solo trip. going into study abroad, i set out with a lofty goal to learn *how to be ok with being alone.* i've been lucky to envelop myself in consistent interaction with other people: i adore my suite mates with whom i cook weekly meals with, i've found friends to explore copenhagen with, and even fellow travel companions on weekends excursions to other countries. i've also been by myself for longer periods of time.

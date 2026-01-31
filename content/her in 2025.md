@@ -1,4 +1,7 @@
-digital and human bids for connection 
+---
+publish: true
+---
+digital and human bids for connection
 [[bids for attention]]
 there's a theme across startups to build conversational AI. 
 the world within *her* is a world with no edges, only curved corners. pink and coral hues punctured by algorithmic blue light. 

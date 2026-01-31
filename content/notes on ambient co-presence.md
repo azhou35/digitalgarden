@@ -1,4 +1,7 @@
-"I can’t wait until we’re allowed to get together and dance our hearts out to nurture, but raving in my living room has certainly sustained me for the time being."
+---
+publish: true
+---
+"I can't wait until we're allowed to get together and dance our hearts out to nurture, but raving in my living room has certainly sustained me for the time being."
 
 last week i saw porter robinson perform in-person. the last time i saw him was mid-pandemic, on my computer screen as he live-streamed his set and released the song *something comforting*. 
 there was indeed *something comforting* about hearing the song live, amongst the hund.reds of fellow fans swaying to the music in GA. 

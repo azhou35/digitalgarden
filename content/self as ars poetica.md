@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Why do you write?
 
 What are you running away from?

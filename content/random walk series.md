@@ -1,3 +1,6 @@
+---
+publish: true
+---
 inspired by [[Fractal Journaling]]
 >"Fractal journaling and randomization are how I tend my garden"
 

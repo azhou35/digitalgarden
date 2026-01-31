@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Forked from [[fielded notes]]
 For chronological view see [[2024 Timeline Reflection]]
 

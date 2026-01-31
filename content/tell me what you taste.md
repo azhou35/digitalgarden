@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[tell me what you taste draft]]
 
 It requires intention, focus, and care. Taste is a commitment to a state of attention.

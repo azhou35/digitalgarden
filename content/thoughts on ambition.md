@@ -1,3 +1,6 @@
+---
+publish: true
+---
 do i lead with ambition?
 recently i did bookbear's matchmaking survey. all in good fun 
 on one date i was struck by how much we talked about ambition and power. he's a startup founder who reads biographies on people in power, so it's obvious where his stance was. an mentioned he's looking to date someone with similar ambitions as him.

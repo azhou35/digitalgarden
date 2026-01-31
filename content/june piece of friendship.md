@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 i argue that friends bring out the best in u - use your discretion the same way you would choose your partner 
 

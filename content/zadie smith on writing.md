@@ -1,1 +1,4 @@
+---
+publish: true
+---
 To me, writing is always the attempted revelation of this elusive, multifaceted self, and yet its total revelation - as Zagajewski suggests - is a chimerical impossibility. It is impossible to convey all of the truth of all our experience. Actually, it's impossible to even know what that would mean, although we stubbornly continue to have an idea of it, just as Plato had an idea of the forms... In what form, asks the writer, can I most truthfully describe the world as it is experienced by this particular self? And it is from that starting point that each writer goes on to make their individual compromise with the self, which is always a compromise with truth as far as the self can know it. That is why the most common feeling, upon re-reading one's own work, is Prufrock's: "That is not it at all ... that is not what I meant, at all ..." Writing feels like self-betrayal, like failure.

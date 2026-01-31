@@ -1,3 +1,6 @@
+---
+publish: true
+---
 see more at [[ambition and otherwise]] [[thoughts on ambition]]
 
 * i wouldnt outwardly call myself ambitious, but as someone constantly striving 

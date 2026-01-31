@@ -1,3 +1,6 @@
+---
+publish: true
+---
 #deep
 "I saw my life branching out before me like the  
 green fig tree in the story. From the tip of every branch, like a fat  

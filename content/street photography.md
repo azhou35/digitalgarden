@@ -1,4 +1,7 @@
-my favorite part of the guggenheim wasn’t the art — it was observing people observe the art, their heads craned to squint at the skylight, their hands pointing at the different exhibits. there’s that word, sonder, to describe the realization that each random passerby is living a life as vivid and complex as your own. i adore the camera’s ability to peel back a stranger’s layers and project a story. on the 6 line uptown, i listened to dhruv’s new album, which he sums up as “maximal, intimate, soulful.” i stared out the window, submerged in dissonance, as the outside blurred: “chaos, in a musical way.” 
+---
+publish: true
+---
+my favorite part of the guggenheim wasn't the art — it was observing people observe the art, their heads craned to squint at the skylight, their hands pointing at the different exhibits. there’s that word, sonder, to describe the realization that each random passerby is living a life as vivid and complex as your own. i adore the camera’s ability to peel back a stranger’s layers and project a story. on the 6 line uptown, i listened to dhruv’s new album, which he sums up as “maximal, intimate, soulful.” i stared out the window, submerged in dissonance, as the outside blurred: “chaos, in a musical way.” 
 
 my go-to weekend activity is going on photowalks with a friend. we pick a neighborhood or an activity and explore through our 35mm lens. i'm a chinatown frequenter, but i'm normally rushing through the streets, weaving through the crowd on the narrow roads and dodging people carrying packages in search of a $1 char siu bun. rarely do i stand still, especially in a street as well-trafficked as mott.
 

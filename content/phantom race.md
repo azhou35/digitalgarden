@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[themes of invisible duel]]
 tiny crowns clink against the porcelain sink. in my dream, teeth fall like winter rain, each loss reverberates in the cavern of my mouth. voids-within-a-void. i jolt wake up at 2 am, tracing a phantom absence with my tongue. tomorrow's my first 10k of the year, but it's not pre-race anxiety that keeps me awake - it was the fear of sleeplessness itself. i have recurring dreams of losing teeth, and each time i'm reminded of the quote by black-toothed sartre, who speaks of the life of a man without teeth, who's *never been bitten, waiting - and then ascertain that they don't have teeth anymore.* 
 

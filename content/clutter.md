@@ -1,5 +1,8 @@
-inspiration: simon wu's dancing on my own 
-poetics of space 
+---
+publish: true
+---
+inspiration: simon wu's dancing on my own
+poetics of space
 [[notes from book reading DOMO]]
 [[response to victoria chang memory]]
 

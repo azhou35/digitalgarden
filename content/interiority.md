@@ -1,5 +1,5 @@
 ---
-publish:
+publish: true
 ---
 an amorphous space located somewhere “inside” the human body, generating conviction (“That’s just how I feel inside”), satisfaction (“I felt all warm inside”), and even identity (“I have to be who I am inside”),
 

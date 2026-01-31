@@ -1,3 +1,6 @@
+---
+publish: true
+---
 - What are underexplored case studies of disruption in different fields (e.g. societal, cultural, technological, linguistic)? What are the effects of disruption on markets, on interpersonal relationships, or on technology?
 - How does disruption happen? What are the drivers or triggers for disruption? How is disruption shaped by individuals, or is the direction and orientation of disruption inevitable?
 - How have new mediums of communication, such as TikTok or podcasts, disrupted political communication? How might we understand these impacts in light of historical disruptions such as the introduction of radio and television?

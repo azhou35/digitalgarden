@@ -1,3 +1,6 @@
+---
+publish: true
+---
 interiority as a map of desire and interest
 
 we all hold an internal shape that reflects our innermost desires and curiosities. a landscape formed by childhood obsessions, books that rewired our brains, fears we're still working through. this inner architecture doesn't always show. we project to the world a simplified facade. if you imagine yourself a house, our foyer is the first space that newcomers encounter: our job title, fashion sense, opinions about the city. these impressions aren't necessarily wrong, but they are incomplete. like compressing a 3D object into 1D, a triangle, circle, and square all look like a line - complexity gets lost upon compression.

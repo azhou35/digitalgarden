@@ -1,4 +1,7 @@
-time dilation - 
+---
+publish: true
+---
+time dilation -
 
 *timepiece* (object as a portal)
 

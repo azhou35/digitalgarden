@@ -1,5 +1,8 @@
-theme: how photography helps me with being alone 
-“each in his own private blizzard.” 
+---
+publish: true
+---
+theme: how photography helps me with being alone
+"each in his own private blizzard."
 -margaret atwood 
 
 people watching & the art of the cull

@@ -1,4 +1,6 @@
-
+---
+publish: true
+---
 
 reflection on 2024 in the city in june heat waves my motivation goodbye. “It is june. I am tired of being brave.”
 
